@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, eu sou o Joseph Mansur</h1>
 <h3 align="center">Um estudante na Inteli</h3>
 
-- 🌱 Estou aprendendo agora **A jogar o esporte Padel**
+- 🌱 Estou aprendendo agora **a jogar o esporte Padel**
 
-- 💬 Me pergunte sobre **NFL, e NBA**
+- 💬 Me pergunte sobre **NFL e NBA**
 
 - 📫 Fala comigo **Joseph.mansur44@gmail.com**
 
